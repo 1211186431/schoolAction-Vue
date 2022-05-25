@@ -1,4 +1,4 @@
-# kaoyan_web
+# 校园场景行为识别系统前端
 
 ## Project setup
 ```
